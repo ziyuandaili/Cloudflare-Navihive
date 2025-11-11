@@ -22,7 +22,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ziyuandaili/Cloudflare-Navihive)
 
 </div>
 
@@ -1054,7 +1054,7 @@ pnpm format
 ### 寻求帮助
 
 - 📖 查看 [CLAUDE.md](CLAUDE.md) 了解项目详细架构
-- 💬 在 [Issues](https://github.com/zqq-nuli/Cloudflare-Navihive/issues) 中提问
+- 💬 在 [Issues](https://github.com/ziyuandaili/Cloudflare-Navihive/issues) 中提问
 - 🐛 报告 Bug 时请包含：错误信息、复现步骤、浏览器版本
 
 ## 📄 许可证
@@ -1191,7 +1191,7 @@ pnpm format
 
 **NaviHive** - 你的专属网络导航中心
 
-[立即部署](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive) · [在线演示](https://navihive.chatbot.cab/) · [提交问题](https://github.com/zqq-nuli/Cloudflare-Navihive/issues) · [参与贡献](https://github.com/zqq-nuli/Cloudflare-Navihive/pulls)
+[立即部署](https://deploy.workers.cloudflare.com/?url=https://github.com/ziyuandaili/Cloudflare-Navihive) · [在线演示](https://nav.zyxq.org/) · [提交问题](https://github.com/ziyuandaili/Cloudflare-Navihive/issues) · [参与贡献](https://github.com/ziyuandaili/Cloudflare-Navihive/pulls)
 
 Made with ❤️ by [zqq-nuli](https://github.com/zqq-nuli)
 
